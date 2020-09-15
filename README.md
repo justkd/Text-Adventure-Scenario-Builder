@@ -4,7 +4,7 @@ by [@justKD](https://github.com/justKD)
 
 ---
 
-##[Live App]
+##Live App
 
 [https://scenario-builder.justkd.app/](https://scenario-builder.justkd.app/)
 
