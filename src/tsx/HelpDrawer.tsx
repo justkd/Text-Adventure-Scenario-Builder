@@ -82,6 +82,10 @@ export const HelpDrawer = ({ isOpen }: { isOpen: boolean }): JSX.Element => {
   }, [isOpen]);
 
   const content = {
+    Notice: [
+      "This app was originally built for a specific third-party game and some of the following instructions are only relevant to that game.",
+      "This project is now planned to evolve and grow as a tool for creating more agnostic datasets.",
+    ],
     "Quick Guide": [
       "If an answer should end a scenario, you must click and edit the NextQID property manually.",
       "Set it to a negative integer to launch a mini-game. (e.g. minesweeper game is -1, tile matching is -2, etc.)",
