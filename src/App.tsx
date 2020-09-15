@@ -14,7 +14,8 @@ import { Diagram } from "./tsx/Diagram";
 import { Toolbar } from "./tsx/Toolbar";
 import { HelpDrawer } from "./tsx/HelpDrawer";
 
-import "./js/lib/go";
+/** GoJS is being loaded via CDN in index.html. */
+// import "./js/lib/go";
 
 export default function App() {
   const [open, setOpen] = React.useState(false);

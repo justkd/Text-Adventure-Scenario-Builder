@@ -1,9 +1,14 @@
 # Text Adventure Scenario Builder
+
 by [@justKD](https://github.com/justKD)
 
 ---
 
-[Live App via CodeSandbox](https://zpiiu.csb.app/)
+##[Live App]
+
+[https://scenario-builder.justkd.app/](https://scenario-builder.justkd.app/)
+
+<!-- [mirror](https://zpiiu.csb.app/) -->
 
 ---
 
@@ -22,6 +27,7 @@ This app was originally created for [AnitaB.org Open Source](https://github.com/
 ## Changelog
 
 v1.1.1
+
 - Changed project name to Text Adventure Scenario Builder.
 
 v1.1.0
@@ -38,7 +44,8 @@ v1.0.0
 
 ## Current Known Issues
 
-sep-15-2020  
+sep-15-2020
+
 - Diagram.tsx - there seems to be a case where the `import` statement in `useEffect` isn't always being called. Keep an eye on this if the graph doesn't properly load when the app is launched.
 
 ---
@@ -72,6 +79,7 @@ sep-15-2020
 ---
 
 ## Setup
+
 ![](https://uploads.codesandbox.io/uploads/user/372c6cb3-29f1-4300-8d4e-120330b42973/axwP-1-just-opened.png)
 
 #### Set the Scenario ID
