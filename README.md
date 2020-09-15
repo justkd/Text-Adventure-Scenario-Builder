@@ -2,10 +2,6 @@
 
 by [@justKD](https://github.com/justKD)
 
----
-
-## Live App
-
 [https://scenario-builder.justkd.app/](https://scenario-builder.justkd.app/)
 
 <!-- [mirror](https://zpiiu.csb.app/) -->
