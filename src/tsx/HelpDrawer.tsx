@@ -126,7 +126,7 @@ export const HelpDrawer = ({ isOpen }: { isOpen: boolean }): JSX.Element => {
         }}
       >
         <div className={classes.drawerHeader}>
-          <h2>Powerup Scenario Builder</h2>
+          <h2>Text Adventure Scenario Builder</h2>
           <IconButton onClick={handleDrawerClose}>
             {theme.direction === "ltr" ? (
               <ChevronLeftIcon />
