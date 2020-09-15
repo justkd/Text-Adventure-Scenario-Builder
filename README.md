@@ -3,7 +3,7 @@ by [@justKD](https://github.com/justKD)
 
 ---
 
-<!-- [Live App via CodeSandbox](https://zpiiu.csb.app/) -->
+[Live App via CodeSandbox](https://zpiiu.csb.app/)
 
 ---
 
@@ -36,10 +36,10 @@ v1.0.0
 
 ---
 
-## Known Issues
+## Current Known Issues
 
 sep-15-2020  
-- Diagram.tsx - import statement in useEffect isn't loading the js file - breaks the app, need a new solution ASAP
+- Diagram.tsx - there seems to be a case where the `import` statement in `useEffect` isn't always being called. Keep an eye on this if the graph doesn't properly load when the app is launched.
 
 ---
 
