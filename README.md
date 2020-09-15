@@ -9,6 +9,10 @@
 
 Text Adventure Scenario Builder is a web app for creating call and response tables for a text adventure style game.
 
+It allows a user to save and load work sessions locally, and it exports the relationship graph in CSV format.
+
+Created with ReactJS and GoJS.
+
 ![Text Adventure Scenario Builder](https://uploads.codesandbox.io/uploads/user/372c6cb3-29f1-4300-8d4e-120330b42973/X3A5-example.png)
 
 This app was originally created for [AnitaB.org Open Source](https://github.com/anitab-org) to be used with their mobile game, PowerUp ([iOS](https://github.com/anitab-org/powerup-iOS), [Android](https://github.com/anitab-org/powerup-android)). The PowerUp project has since been [archived](https://github.com/anitab-org/powerup-scenario-builder), and updates to this app will now be primarily found here.
@@ -35,7 +39,7 @@ v1.0.0
 ## Known Issues
 
 sep-15-2020  
-- Diagram.tsx - import statement in useEffect isn't loading the file - breaks the app, need a new solution ASAP
+- Diagram.tsx - import statement in useEffect isn't loading the js file - breaks the app, need a new solution ASAP
 
 ---
 
