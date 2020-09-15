@@ -1,5 +1,5 @@
 # Text Adventure Scenario Builder
-[@justKD](https://github.com/justKD)
+by [@justKD](https://github.com/justKD)
 
 ---
 
