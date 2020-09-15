@@ -3,7 +3,7 @@
  * @author justKD
  * @fileoverview `export const Title`
  * Just the title. But I think it's also covering the
- * ugly gojs watermark...
+ * gojs watermark...
  */
 
 import * as React from "react";
@@ -18,6 +18,6 @@ export const Title = (): JSX.Element => (
       textAlign: "center",
     }}
   >
-    <h2>PowerUp Scenario Builder</h2>
+    <h2>Text Adventure Scenario Builder</h2>
   </div>
 );

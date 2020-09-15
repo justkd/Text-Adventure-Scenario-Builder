@@ -1,6 +1,6 @@
 {
-  "name": "powerup-scenario-builder-live-app",
-  "version": "1.0.0",
+  "name": "text-adventure-scenario-builder",
+  "version": "1.1.1",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",

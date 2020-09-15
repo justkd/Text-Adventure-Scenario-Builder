@@ -8,8 +8,6 @@
 import { diagramMethods } from "./diagram.methods";
 import { diagramTemplates } from "./diagram.templates";
 
-console.log("diagram run")
-
 window["diagramProps"] = {
   helpOpen: false,
   lastQuestionID: 1,

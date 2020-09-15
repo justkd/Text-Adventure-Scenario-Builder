@@ -1,23 +1,24 @@
-# PowerUp Scenario Builder
-
-Created by: [@justKD](https://github.com/justKD)
-
----
-
-[Live App via CodeSandbox](https://f52z7.csb.app/)
+# Text Adventure Scenario Builder
+[@justKD](https://github.com/justKD)
 
 ---
 
-PowerUp Scenario Builder is a web app for creating question and answer tables for PowerUp ([iOS](https://github.com/anitab-org/powerup-iOS), [Android](https://github.com/anitab-org/powerup-android)), a text-adventure style mobile game by [AnitaB.org Open Source](https://github.com/anitab-org).
+<!-- [Live App via CodeSandbox](https://zpiiu.csb.app/) -->
+
+---
+
+Text Adventure Scenario Builder is a web app for creating call and response tables for a text adventure style game.
 
 ![PowerUp Scenario Builder](https://github.com/justKD/Powerup-Scenario-Builder/blob/master/readme-images/example.png?raw=true "PowerUp Scenario Builder Example Image")
 
-**Best experienced in Chrome.**
-_Also works in Safari and Firefox. Possibly with quirks._
+This app was originally created for [AnitaB.org Open Source](https://github.com/anitab-org) to be used with their mobile game, PowerUp ([iOS](https://github.com/anitab-org/powerup-iOS), [Android](https://github.com/anitab-org/powerup-android)). The PowerUp project has since been [archived](https://github.com/anitab-org/powerup-scenario-builder), and updates to this app will now be primarily found here.
 
 ---
 
 ## Changelog
+
+v1.1.1
+- Changed project name to Text Adventure Scenario Builder.
 
 v1.1.0
 
@@ -28,6 +29,13 @@ v1.1.0
 v1.0.0
 
 - Initial release
+
+---
+
+## Known Issues
+
+sep-15-2020  
+- Diagram.tsx - import statement in useEffect isn't loading the file - breaks the app, need a new solution ASAP
 
 ---
 
